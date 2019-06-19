@@ -1,5 +1,5 @@
 # NetworkMiniModel
-This is a prototype for the NetworkFullModel.
+This is a prototype for the NetworkFullModel (created with Cisco Packet Tracer)
 
 Things included in this prototype:
 
