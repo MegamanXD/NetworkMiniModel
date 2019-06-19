@@ -1,2 +1,18 @@
 # NetworkMiniModel
-Design a network for a new start-up using Cisco Packet Tracer (from Data communication & Net-Centric Computing course)
+This is a prototype for the NetworkFullModel.
+
+Things included in this prototype:
+
+_ Set default native VLAN to a different one for better security
+
+_ Setting VLAN for all end devices
+
+_ Trunking
+
+_ Access Control List to make sure only Design team & Software Developer team can communicate with each other, and only Sales department & Accounting department can communicate with each other
+
+_ Private IPs to maximize IPs useable
+
+_ NAT to convert Private IPs to Public IPs
+_______________________________________________________________________________________________
+This assignment is from Data communication & Net-Centric Computing course.
