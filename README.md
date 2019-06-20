@@ -1,9 +1,8 @@
-# NetworkMiniModel
 This is a prototype for the NetworkFullModel. <br>
 Contains only the Logical design. <br> 
 Created with Cisco Packet Tracer.
 
-## Features included
+## Features
 
 _ Set default native VLAN to a different one for better security
 
@@ -17,6 +16,6 @@ _ Private IPs to maximize IP usage
 
 _ NAT to convert Private IPs to Public IPs
 _______________________________________________________________________________________________
-## This assignment is from
+## Assignment from
 
 Data communication & Net-Centric Computing course.
