@@ -9,9 +9,9 @@ _ Setting VLAN for all end devices
 
 _ Trunking
 
-_ Access Control List to make sure only Design team & Software Developer team can communicate with each other, and only Sales department & Accounting department can communicate with each other
+_ ACL to make sure only Design team & Software Developer team can communicate with each other, and only Sales department & Accounting department can communicate with each other
 
-_ Private IPs to maximize IPs useable
+_ Private IPs to maximize IPs usage
 
 _ NAT to convert Private IPs to Public IPs
 _______________________________________________________________________________________________
